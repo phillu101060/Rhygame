@@ -999,7 +999,7 @@ running = True
 
 ```
 
-3. 自己貢獻:選歌函數、結算函數、判定邏輯與特效、音符掉落函數、分數與連擊數計算邏輯、歷史紀錄、原始的譜面載入方式(就是除了上面兩點外的其他東西)
+3. 自己貢獻:選歌函數、結算函數、判定邏輯與特效、音符掉落函數、分數與連擊數計算邏輯、歷史紀錄、原始的譜面載入方式(就是除了上面兩點外的其他所有東西)
 
 We encourage further modifications and look forward to community contributions to improve RhyGame further.
 This README was made by ChatGPT.
