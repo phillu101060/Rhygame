@@ -34,7 +34,7 @@ pip install json
 
 ```
 
-2. 確保RhyGame.py和resource在同一資料夾內
+2. 在解壓縮Rhygame-main.zip後，將Rhygame-main資料夾中的Rhygame-main移出，並確保RhyGame.py和resource在同一資料夾內(即Rhygame-main資料夾中同時有RhyGame.py和resource，但不會有另一個Rhygame-main資料夾)
 
 3. 戴上耳機以獲得最好體驗
 
